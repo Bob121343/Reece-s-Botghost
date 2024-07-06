@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Watching Reece's Hangout Server: The Game releasing","Watching 50 members"];
 
 
 let currentIndex = 0;
